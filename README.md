@@ -12,3 +12,4 @@ Boost.Filesystem, part of collection of the Boost C++ Libraries, provides facili
 7. [csv2](https://github.com/p-ranav/csv2): Fast CSV parser and writer for Modern C++
 8. [tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
 9. [argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
+10. [asserts](https://github.com/jeremy-rifkin/asserts): The most over-engineered and overpowered C++ assertion library
