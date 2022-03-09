@@ -14,3 +14,7 @@ Boost.Filesystem, part of collection of the Boost C++ Libraries, provides facili
 9. [argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
 10. [asserts](https://github.com/jeremy-rifkin/asserts): C++ 17 The most over-engineered and overpowered C++ assertion library
 11. [better_assert](https://github.com/amallia/better_assert.git): A better C++ assertion library which also prints a debug message
+
+### other
+1. clang set CMAKE_CXX_FLAGS -fstandalone-debug can view string content
+2. [C++ books] (https://xie.infoq.cn/article/207aab244ae44b9fc5c71a059)
